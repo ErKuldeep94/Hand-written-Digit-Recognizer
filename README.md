@@ -1,1 +1,1 @@
-# Hand-written-Digit-Recognizer
+# Neural Network implementation for Hand-written-Digit-Recognizer
